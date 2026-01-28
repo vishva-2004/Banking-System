@@ -1,6 +1,6 @@
 package DB;
 
-class Connection
+class Connection 
 {
 	
 }
