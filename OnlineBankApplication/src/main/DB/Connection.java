@@ -1,0 +1,6 @@
+package DB;
+
+class Connection
+{
+	
+}
