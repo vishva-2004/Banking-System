@@ -7,6 +7,14 @@ import java.sql.SQLException;
 
 public class Transactions {
 
+	public static void Account_creation() throws SQLException
+	{
+		Connection con = ConnectionSql.getConnections();
+		
+		
+	}
+	
+	
 	public static void withrawal() throws SQLException
 	{
 		Connection con = ConnectionSql.getConnections();
